@@ -1,0 +1,12 @@
+{
+  "name": "learn_datastructures_and_algorithms_book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "objectBasedDataStructure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ahmed Elselly",
+  "license": "ISC"
+}
