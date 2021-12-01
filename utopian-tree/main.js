@@ -4,13 +4,13 @@ const utopianTree = n => {
 
   while(count <= n){
     if(count % 2 !== 0){
-      height *= 2
+      height *= 2;
       console.log(height)
     } else {
       height++;
       console.log(height)
     }
-    count++
+    count++;
   }
   return height;
 }
